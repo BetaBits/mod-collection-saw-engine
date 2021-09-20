@@ -1,0 +1,26 @@
+Tutorial:gf:1:#FF2BE6FF:#FF2BFFC5
+Bopeebo:dad:1:#FF3D09C3:#FFE753F9
+Fresh:dad:1:#FF3D09C3:#FFE753F9
+Dadbattle:dad:1:#FF3D09C3:#FFE753F9
+Spookeez:spooky:2:#FFFFA649:#FFFFFFFF
+South:spooky:2:#FFFFA649:#FFFFFFFF
+Monster:monster:2:#FFFFF091:#FFE7BD00
+Pico:pico:3:#FF49FF00:#FF2BFFC5
+Philly Nice:pico:3:#FF49FF00:#FF2BFFC5
+Blammed:pico:3:#FF49FF00:#FF2BFFC5
+Satin Panties:mom:4:#FFC00046:#FFB9A3FF
+High:mom:4:#FFC00046:#FFB9A3FF
+Milf:mom:4:#FFC00046:#FFB9A3FF
+Cocoa:parents-christmas:5:#FFC200D5:#FF050091
+Eggnog:parents-christmas:5:#FFC200D5:#FF050091
+Winter Horrorland:monster:5:#FFFFF091:#FFE7BD00
+Senpai:senpai:6:#FFFFB600:#FFFFCFD0
+Roses:senpai:6:#FFFFB600:#FFFFCFD0
+Thorns:spirit:6:#FFFF0005:#FF000000
+Ugh:tankman:7:#FFFFF091:#FFE7BD00
+Guns:tankman:7:#FFFFF091:#FFE7BD00
+Stress:tankman:7:#FFFFF091:#FFE7BD00
+Lo-Fight:whitty:8:#FF5D5D5D:#FF000000
+Overhead:whitty:8:#FF5D5D5D:#FF000000
+Ballistic:whittyCrazy:8:#FFFF0005:#FF000000
+Ballistic-Old:whittyCrazy:8:#FFFF0005:#FF000000
